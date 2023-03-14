@@ -10,6 +10,8 @@ function App() {
       <Header />
 
       <Dropdown />
+      <h1></h1>
+      <Dropdown />
 
     </div>
   );
