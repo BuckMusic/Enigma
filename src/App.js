@@ -7,6 +7,10 @@ function App() {
   return (
     <div className="App">
 
+      <h6>this project will eventually display a virtual working Enigma machine</h6>
+      <h6>the fruit selection needs to be replaced with the wheels and window settings</h6>
+      
+
       <Header />
 
       <Dropdown />
